@@ -11,19 +11,35 @@ body {
     background-color: #1F2937;
 }
 
-.header {
+.centered {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.header-content {
     display: flex;
     justify-content: space-between;
+    margin-top: 10px;
 }
 
-.top,
-.content {
+.top, {
     display: flex;
 }
 
-.top-left {
+.top-content {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.top-content-left {
     display: flex;
     flex-direction: column;
+}
+
+.top-content-right {
+    width: 300px;
 }
 
 .main-text {
@@ -42,9 +58,4 @@ body {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: 800;
-}
-
-
-.content-pic {
-    width: 300px;
 }
