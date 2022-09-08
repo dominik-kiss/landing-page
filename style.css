@@ -1,0 +1,22 @@
+
+body {
+    display: flex;
+}
+
+.logo {
+    width: 150px;
+}
+
+.top,
+.header,
+.top-content,
+.mid1,
+.mid2,
+.mid3,
+.footer {
+    display: flex;
+}
+
+.content-pic {
+    width: 1000px;
+}
