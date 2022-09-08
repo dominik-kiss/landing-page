@@ -49,7 +49,7 @@ button {
     display: flex;
 }
 
-.top-content {
+.top .content {
     display: flex;
     justify-content: space-between;
 }
