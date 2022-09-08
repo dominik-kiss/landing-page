@@ -5,6 +5,15 @@ body {
     font-family: 'roboto', sans-serif;
 }
 
+button {
+    width: 100px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 5px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
 .header,
 .footer,
 .top {
@@ -31,15 +40,18 @@ body {
     display: flex;
     margin-top: 100px;
     margin-bottom: 100px;
+    justify-content: space-between;
 }
 
 .top-content-left {
     display: flex;
     flex-direction: column;
+    align-items: left;
+    gap: 5px;
 }
 
 .top-content-right {
-    width: 300px;
+    width: 500px;
 }
 
 .main-text {
