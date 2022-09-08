@@ -1,10 +1,16 @@
 
 body {
     display: flex;
+    flex-direction: column;
 }
 
 .logo {
     width: 150px;
+}
+
+.header,
+.footer {
+    background-color: #1F2937;
 }
 
 .top,
