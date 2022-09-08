@@ -7,13 +7,14 @@ body {
 }
 
 button {
-    width: 100px;
+    width: 140px;
     background-color: #3882F6;
     color: #F9FAF8;
-    padding: 5px;
+    padding: 5px 20px 5px 20px;
     font-weight: 700;
     margin-top: 10px;
     border-radius: 10%;
+    font-size: 18px;
 }
 
 .header,
@@ -25,6 +26,11 @@ button {
 .centered {
     margin-left: 200px;
     margin-right: 200px;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 
@@ -45,8 +51,6 @@ button {
 
 .top-content {
     display: flex;
-    margin-top: 100px;
-    margin-bottom: 100px;
     justify-content: space-between;
 }
 
