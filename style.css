@@ -5,11 +5,25 @@ body {
     font-family: 'roboto', sans-serif;
 }
 
-a,
-.secondary-text {
-    text-decoration: none;
-    font-size: 18px;
-    color: #E5E7EB;
+.header,
+.footer,
+.top {
+    background-color: #1F2937;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top,
+.content {
+    display: flex;
+}
+
+.top-left {
+    display: flex;
+    flex-direction: column;
 }
 
 .main-text {
@@ -18,27 +32,19 @@ a,
     color: #F9FAF8;
 }
 
+.secondary-text {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: 800;
 }
 
-.header,
-.footer,
-.top {
-    background-color: #1F2937;
-}
-
-.top,
-.header,
-.top-content,
-.mid1,
-.mid2,
-.mid3,
-.footer {
-    display: flex;
-}
 
 .content-pic {
-    width: 1000px;
+    width: 300px;
 }
