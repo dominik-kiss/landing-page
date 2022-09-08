@@ -2,14 +2,30 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: 'roboto', sans-serif;
+}
+
+a,
+.secondary-text {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
 }
 
 .logo {
-    width: 150px;
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 .header,
-.footer {
+.footer,
+.top {
     background-color: #1F2937;
 }
 
