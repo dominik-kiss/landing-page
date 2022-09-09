@@ -13,8 +13,14 @@ body {
     padding: 5px 20px 5px 20px;
     font-weight: 700;
     margin-top: 10px;
-    border-radius: 10%;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
     font-size: 18px;
+}
+
+.signup-1:hover {
+    background-color: #1F2937;
+    transition: 0.5s;
 }
 
 .header,
@@ -178,6 +184,12 @@ body {
     font-size: 18px;
     font-weight: 700;
     padding: 10px 20px 10px 20px;
+}
+
+.signup-2:hover {
+    background-color: white;
+    color: #3882F6;
+    transition: 0.5s;
 }
 
 .copyright {
