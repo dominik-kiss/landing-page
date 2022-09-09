@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 
-button {
+.signup-1 {
     width: 140px;
     background-color: #3882F6;
     color: #F9FAF8;
@@ -29,7 +29,8 @@ button {
 }
 
 .top .content,
-.mid2 .content {
+.mid2 .content,
+.mid3 .content {
     margin-top: 130px;
     margin-bottom: 130px;
 }
