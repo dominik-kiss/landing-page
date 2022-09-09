@@ -6,62 +6,6 @@ body {
     margin: 0;
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
-.link {
-    position: relative;
-  }
-
-.overlay {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    transition: .5s ease;
-    background-color: #3882F6;
-    border-radius: 10%;
-  }
-
-  .text {
-    color: white;
-    font-size: 20px;
-    font-weight: 700;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    text-align: center;
-  }
-
-  .link:hover .overlay {
-    opacity: 0.8;
-  }
-
-.signup-1 {
-    width: 140px;
-    background-color: #3882F6;
-    color: #F9FAF8;
-    padding: 5px 20px 5px 20px;
-    font-weight: 700;
-    margin-top: 10px;
-    border: 3px solid #3882F6;
-    border-radius: 10px;
-    font-size: 18px;
-}
-
-.signup-1:hover {
-    background-color: #1F2937;
-    transition: 0.5s;
-}
-
 .header,
 .footer,
 .top {
@@ -81,18 +25,12 @@ a:hover {
     margin-bottom: 130px;
 }
 
-.top .content img {
-    width: 500px;
-    height: 250px;
-    object-fit: cover;
-    display: flex;
-    flex: 0 0 1;
-}
 
-.top-content-right {
-    display: flex;
-}
+/****** Header ******/
 
+a:hover {
+    text-decoration: underline;
+}
 
 .header .content {
     display: flex;
@@ -103,6 +41,43 @@ a:hover {
 .links {
     display: flex;
     gap: 25px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 800;
+}
+
+/****** Top section ******/
+
+.signup-1 {
+    width: 140px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 5px 20px 5px 20px;
+    font-weight: 700;
+    margin-top: 10px;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.signup-1:hover {
+    background-color: #1F2937;
+    transition: 0.5s;
+}
+
+.top .content img {
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
+    display: flex;
+    flex: 0 0 1;
+}
+
+.top-content-right {
+    display: flex;
 }
 
 .top .content {
@@ -129,10 +104,41 @@ a:hover {
     color: #E5E7EB;
 }
 
-.logo {
-    font-size: 24px;
-    color: #F9FAF8;
-    font-weight: 800;
+/****** Mid section with cards ******/
+
+.link {
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #3882F6;
+    border-radius: 10%;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.link:hover .overlay {
+    opacity: 0.8;
 }
 
 .mid1 .content {
@@ -177,6 +183,8 @@ a:hover {
     color: #1f2937c5;
 }
 
+/****** Mid section with quote ******/
+
 .mid2 {
     background-color: #E5E7EB;
 }
@@ -197,6 +205,9 @@ a:hover {
     text-align: right;
     margin-right: 50px;
 }
+
+/****** Mid section with call to action ******/
+
 
 .mid3 .content {
     background-color: #3882F6;
@@ -233,6 +244,8 @@ a:hover {
     color: #3882F6;
     transition: 0.5s;
 }
+
+/****** Footer ******/
 
 .copyright {
     text-align: center;
