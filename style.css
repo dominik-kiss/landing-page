@@ -92,3 +92,11 @@ button {
 .cards {
     display: flex;
 }
+
+.card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10%;
+    border: 5px solid #3882F6;
+}
