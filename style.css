@@ -152,4 +152,30 @@ body {
 
 .mid3 .content {
     background-color: #3882F6;
+    padding: 50px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.content-left {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.content-left .title {
+    font-size: 24px;
+    color: white;
+    font-weight: 700;
+}
+
+.signup-2 {
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 20px 10px 20px;
 }
