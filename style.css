@@ -94,6 +94,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 130px;
 }
 
 .mid1-main-text {
