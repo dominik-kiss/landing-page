@@ -6,6 +6,10 @@ body {
     margin: 0;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 .signup-1 {
     width: 140px;
     background-color: #3882F6;
