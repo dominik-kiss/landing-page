@@ -30,8 +30,8 @@ body {
 }
 
 .content {
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
     display: flex;
 }
 
@@ -111,7 +111,7 @@ body {
 
 .cards {
     display: flex;
-    gap: 40px;
+    gap: 10%;
     justify-content: center;
 }
 
