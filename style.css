@@ -65,7 +65,7 @@ button {
     width: 500px;
 }
 
-.main-text {
+.top-main-text {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
@@ -81,4 +81,9 @@ button {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: 800;
+}
+
+.mid1 .content {
+    display: flex;
+    flex-direction: column;
 }
