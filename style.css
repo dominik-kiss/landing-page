@@ -51,9 +51,6 @@ button {
     gap: 25px;
 }
 
-.top, {
-    display: flex;
-}
 
 .top .content {
     display: flex;
@@ -130,4 +127,8 @@ button {
 .card-text {
     font-size: 18px;
     color: #1f2937c5;
+}
+
+.mid2 {
+    background-color: #E5E7EB;
 }
