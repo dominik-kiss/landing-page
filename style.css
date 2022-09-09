@@ -23,7 +23,7 @@ button {
     background-color: #1F2937;
 }
 
-.centered {
+.content {
     margin-left: 200px;
     margin-right: 200px;
 }
@@ -34,7 +34,7 @@ button {
 }
 
 
-.header-content {
+.header .content {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
