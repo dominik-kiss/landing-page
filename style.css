@@ -28,7 +28,7 @@ button {
     margin-right: 200px;
 }
 
-.content {
+.top .content {
     margin-top: 130px;
     margin-bottom: 130px;
 }
@@ -93,10 +93,26 @@ button {
     display: flex;
 }
 
+.mid1-main-text {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.card {
+    align-items: center;
+    text-align: center;
+}
+
 .card img {
     width: 200px;
     height: 200px;
     object-fit: cover;
     border-radius: 10%;
     border: 5px solid #3882F6;
+}
+
+.card-text {
+    font-size: 18px;
+    color: #1f2937c5;
 }
