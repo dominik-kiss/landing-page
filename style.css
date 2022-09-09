@@ -89,10 +89,6 @@ button {
     align-items: center;
 }
 
-.cards {
-    display: flex;
-}
-
 .mid1-main-text {
     font-size: 36px;
     font-weight: 1000;
@@ -100,14 +96,24 @@ button {
     margin: 50px;
 }
 
+.cards {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
 .card {
     align-items: center;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: 0 1 0;
 }
 
 .card img {
-    width: 200px;
-    height: 200px;
+    width: 160px;
+    height: 160px;
     object-fit: cover;
     border-radius: 10%;
     border: 5px solid #3882F6;
