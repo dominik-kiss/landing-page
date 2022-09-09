@@ -142,4 +142,7 @@ button {
 .quote-name {
     font-size: 30px;
     font-weight: 800;
+    text-align: right;
+    margin: 20px;
 }
+
