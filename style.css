@@ -128,7 +128,7 @@ a:hover {
     flex: 0 1 0;
 }
 
-.card img {
+.cover {
     width: 160px;
     height: 160px;
     object-fit: cover;
