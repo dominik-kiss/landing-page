@@ -86,4 +86,9 @@ button {
 .mid1 .content {
     display: flex;
     flex-direction: column;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
 }
