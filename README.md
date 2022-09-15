@@ -1,4 +1,4 @@
-## Landing-page
+# Landing-page
 
 I created an example landing page for the Odin Project. 
 
@@ -6,7 +6,7 @@ The landing page utilizes flex to display elements and basic CSS knowledge to st
 
 [Live view](https://dominik-kiss.github.io/landing-page/)
 
-# Credits
+### Credits
 Stock photos used for the site:
 
 *Francesca Tosolini
