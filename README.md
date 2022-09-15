@@ -1,32 +1,23 @@
-# Landing-page
+## Landing-page
 
-Created an example landing page for the Odin Project. 
+I created an example landing page for the Odin Project. 
 
 The landing page utilizes flex to display elements and basic CSS knowledge to style them.
 
+[Live view](https://dominik-kiss.github.io/landing-page/)
 
-Stock photos were used for the site, credit to the artists below:
+# Credits
+Stock photos used for the site:
 
-Avi Vaxman
-https://unsplash.com/photos/f9qZuKoZYoY
+*Francesca Tosolini
+-https://unsplash.com/photos/Gu4R-0lwXVk
+-https://unsplash.com/photos/21xbUDIN8ao
 
-Clayton
-https://unsplash.com/photos/1by_GbwEMwc
-https://unsplash.com/photos/Dx2t4hutl6U
+*Maurice Williams
+-https://unsplash.com/photos/tPX992SVljo
 
-Francesca Tosolini
-https://unsplash.com/photos/Gu4R-0lwXVk
-https://unsplash.com/photos/w1RE0lBbREo
-https://unsplash.com/photos/21xbUDIN8ao
+*Todd Kent
+-https://unsplash.com/photos/178j8tJrNlc
 
-Ronnie George
-https://unsplash.com/photos/Z2OkLCeLuCY
-
-Maurice Williams
-https://unsplash.com/photos/tPX992SVljo
-
-Todd Kent
-https://unsplash.com/photos/178j8tJrNlc
-
-jarmoluk
-https://pixabay.com/photos/apartment-room-house-2094666/
+*jarmoluk
+-https://pixabay.com/photos/apartment-room-house-2094666/
