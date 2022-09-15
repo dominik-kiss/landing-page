@@ -1,12 +1,11 @@
-# landing-page
-This is a practice landing page.
+# Landing-page
 
-I will practice and showcase my HTML/CSS skills by creating this example landing page.
+Created an example landing page for the Odin Project. 
+
+The landing page utilizes flex to display elements and basic CSS knowledge to style them.
 
 
-
-
-Credit to the artists for the photos used in this project:
+Stock photos were used for the site, credit to the artists below:
 
 Avi Vaxman
 https://unsplash.com/photos/f9qZuKoZYoY
@@ -14,7 +13,6 @@ https://unsplash.com/photos/f9qZuKoZYoY
 Clayton
 https://unsplash.com/photos/1by_GbwEMwc
 https://unsplash.com/photos/Dx2t4hutl6U
-
 
 Francesca Tosolini
 https://unsplash.com/photos/Gu4R-0lwXVk
