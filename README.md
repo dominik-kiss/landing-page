@@ -10,14 +10,14 @@ The landing page utilizes flex to display elements and basic CSS knowledge to st
 Stock photos used for the site:
 
 *Francesca Tosolini
--https://unsplash.com/photos/Gu4R-0lwXVk
--https://unsplash.com/photos/21xbUDIN8ao
+  -[1](https://unsplash.com/photos/Gu4R-0lwXVk)
+  -[2](https://unsplash.com/photos/21xbUDIN8ao)
 
 *Maurice Williams
--https://unsplash.com/photos/tPX992SVljo
+  -[3](https://unsplash.com/photos/tPX992SVljo)
 
 *Todd Kent
--https://unsplash.com/photos/178j8tJrNlc
+  -[4](https://unsplash.com/photos/178j8tJrNlc)
 
 *jarmoluk
--https://pixabay.com/photos/apartment-room-house-2094666/
+  -[5](https://pixabay.com/photos/apartment-room-house-2094666/)
